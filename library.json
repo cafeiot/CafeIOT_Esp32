@@ -1,12 +1,12 @@
 {
-    "name": "CafeIOT_Esp32",
+    "name": "CafeIOT",
     "keywords": "m2m, iot, CafeIot",
     "description": "A library for connecting ESP32 to the Cloud CafeIot.",
     "repository": {
         "type": "git",
         "url": "https://github.com/cafeiot/CafeIOT_Esp32"
     },
-    "version": "0.5",
+    "version": "0.1",
    
     "frameworks": "arduino"
 }
